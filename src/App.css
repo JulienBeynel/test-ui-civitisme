@@ -4,4 +4,44 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: #dde1e7;
+}
+
+.card-custom{
+    width: 650px;
+    background-color: #dde1e7;
+    border-color: #7600d5;
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.card-header-custom {
+    background-color: #7600d5;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card-text-custom {
+    text-align: center;
+    color: #666768;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+.border-bottom-custom {
+    border-bottom-style: solid;
+    border-bottom-color: #a1a3a6;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.logo-custom {
+    margin-right: 10px;
+}
+
+.button-custom {
+    background-color: #122fe2;
+    border-radius: 20px;
+    width: 125px;
 }
